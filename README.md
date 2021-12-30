@@ -9,7 +9,7 @@ My name is David Berto, I've a master’s degree in Informatics Engineering with
 
 
 
-## iOS Apps | Professional
+## iOS Apps | Professional 
 [Zurich - My Customer](https://www.apple.com/business/success-stories/insurance/zurich/)
 
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/16022981/147764083-9e2456f2-3ad4-4f4a-9e1d-5090f2877bfa.png">
