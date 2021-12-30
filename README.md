@@ -1,16 +1,28 @@
-### Hi there 👋
+## Who am I? 🤔
 
-<!--
-**DBerto/DBerto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is David Berto, I've a master’s degree in Informatics Engineering with a specialization in Software Engineering. My professional experience includes mobile development for iOS devices, architecture decisions and team support. I've participated in national and international projects from areas such as Public Transport, Insurance and Public Services. I’m always looking for a challenge to push me harder, to improve my knowledge and code quality, using the best software principles.
 
-Here are some ideas to get you started:
+## My Contacts 💼
+- [Linkedin](https://www.linkedin.com/in/david-berto/)
+- [Email](david.berto@hotmail.com)
+- [Phone number](+351914216900)
+- [CV](https://github.com/DBerto/DBerto/files/7793402/David.CV.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## iOS Apps | Professional
+
+[Sit. Fiscal - Pagamentos](https://apps.apple.com/pt/app/sit-fiscal-pagamentos/id1100808111)
+
+<img width="794" alt="image" src="https://user-images.githubusercontent.com/16022981/147759497-253b6552-8b0e-494e-9fde-afa120537201.png">
+
+[e-fatura ](https://apps.apple.com/pt/app/e-fatura/id887477687)
+
+<img width="773" alt="image" src="https://user-images.githubusercontent.com/16022981/147761926-e27fac1c-f771-48e3-9002-45808ff66574.png">
+
+[TAP Air Portugal](https://apps.apple.com/pt/app/tap-air-portugal/id440497198)
+
+<img width="769" alt="image" src="https://user-images.githubusercontent.com/16022981/147761959-1a0477e1-027d-42f1-8de0-5a94dea87380.png">
+
+[Via Verde](https://apps.apple.com/pt/app/via-verde/id674583357)
+
+<img width="771" alt="image" src="https://user-images.githubusercontent.com/16022981/147762004-1b1fb4da-f0a2-4546-9883-905fed5ae9eb.png">
