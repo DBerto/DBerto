@@ -5,7 +5,6 @@ My name is David Berto, I've a master’s degree in Informatics Engineering with
 ## My Contacts 💼
 - [Linkedin](https://www.linkedin.com/in/david-berto/)
 - [Email](mailto:david.berto@hotmail.com)
-- [Phone number](tel:+351914216900)
 - [CV](https://github.com/DBerto/DBerto/files/7793559/David.CV-pages-deleted.pdf)
 
 
