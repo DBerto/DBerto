@@ -12,6 +12,8 @@ My name is David Berto, I've a master’s degree in Informatics Engineering with
 ## iOS Apps | Professional 
 [Zurich - My Customer](https://www.apple.com/business/success-stories/insurance/zurich/)
 
+[On media](https://www.cdt.ch/infoaziende/zurich-innovazione-a-favore-della-clientela-BJ4128663?_sid=DL6RPAtk)
+
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/16022981/147764083-9e2456f2-3ad4-4f4a-9e1d-5090f2877bfa.png">
 
 [Via Verde](https://apps.apple.com/pt/app/via-verde/id674583357)
